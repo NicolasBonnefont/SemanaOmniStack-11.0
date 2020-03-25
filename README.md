@@ -14,5 +14,5 @@
 2. Estruturação do Banco de dados
 3. Lidando com as Rotas
 
-# SemanaOmniStack-11.0
+
 
