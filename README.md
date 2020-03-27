@@ -1,7 +1,8 @@
 # SemanaOmniStack-11.0
- Estudos em Javascript
+
+# Estudos em Javascript
+
  Tecnologias aplicadas:
- 
  1. NodeJS (Backend) / ReactJS (Frontend) / ReactNative (Mobile)
 
  # Primeiro Dia :
